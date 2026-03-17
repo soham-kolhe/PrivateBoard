@@ -233,5 +233,5 @@ This repository is intended for:
 * local deployment.
 
 For commercial use of PrivateBoard with tldraw components, contact [tldraw Sales](mailto:sales@tldraw.com).
-
+see https://github.com/tldraw/tldraw/issues/8248
 
